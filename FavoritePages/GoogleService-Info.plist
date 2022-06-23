@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>634902444176-f2ei4b9l25t8g0lbtdjbqunog4htdt35.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.634902444176-f2ei4b9l25t8g0lbtdjbqunog4htdt35</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqHUIimH4k31YTAb5qi1xVyZuO7_256iA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>634902444176</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mertkarahan.FavoritePages</string>
+	<key>PROJECT_ID</key>
+	<string>favoritepages-e645b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>favoritepages-e645b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:634902444176:ios:b36cca3c1104b981ac0015</string>
+</dict>
+</plist>
